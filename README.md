@@ -1,2 +1,2 @@
 # software-projects
-This is description 
+This is description.
